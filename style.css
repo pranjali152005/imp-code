@@ -1,0 +1,19 @@
+button{
+    background-color:green;
+}
+*{
+    background-color:yellow;
+}
+#p1{
+    color:purple;
+
+}
+.demo{
+    color:purple;
+
+}
+p:hover{
+    background-color:red;
+}
+
+
